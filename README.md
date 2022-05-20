@@ -5,7 +5,7 @@
 
 CineMap is a full stack MERN application (MongoDB, Express, React and Node) app that inspires its users to watch a new film, learn something new about that culture and/or part of the world and to incorporate worldwide travel in the form of user experience. The site also allows users to submit their own picks for films that aren't already listed on the site and create reviews and likes for the films. 
 
-**This repo contains code for the back end server only; code for the front end client lives** [here](https://github.com/Dani-Gordon/CineMap-server)
+**This repo contains code for the front end client only; code for the back end server lives** [here](https://github.com/Dani-Gordon/CineMap-server)
 
 ## Installation
 Check out the live application [here](https://cinemap.netlify.app/)! \
