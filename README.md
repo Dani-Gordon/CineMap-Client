@@ -78,15 +78,15 @@ Once the idea was solidified, the team sketched out the framework for the idea i
 
 ## Challenges: 
 
-- I worked on the NavBar for the better part of a day until I realized the Hamburger-React and Off-Canvas packages I had added to the project both had bugs and were not working as intended. I had to remove Off-canvas React Bootstrap and add code for a Sidebar, utilize state and Sass styling techniques to make the NavBar function in the desired way. 
+- I worked on the NavBar for the better part of a day until I realized the Hamburger-React and Off-Canvas packages I had added to the project both had bugs and were not working as intended. I had to remove Off-canvas React Bootstrap and add code for a Sidebar, utilize state and Sass styling techniques to make the NavBar function in the desired way.
 
 
 ## Wins:
 
-- Admin only functionality
+- Admin only functionality.
 -	Finally getting the Navbar to slide out from the left hand side of the screen and not interfere with the app content.
 -	Ratings and likes for films that increase and decrease based on user input.
--	Edit and Delete functionality for User Reviews
+-	Edit and Delete functionality for User Reviews.
 
 # Future Improvements/Features
 ***
