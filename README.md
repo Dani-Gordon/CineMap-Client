@@ -9,11 +9,11 @@ CineMap is a full stack MERN application (MongoDB, Express, React and Node) app 
 
 ## Installation
 Check out the live application [here](https://cinemap.netlify.app/)! \
-Feel free to register and then use your own login credentials, or try a demo one using:
+Feel free to register and then use your own login credentials, try a demo using:
 - Username: Dani@email.com
 - Password: Password1!
 
-Or run it locally (make sure you have a local version of MongoDB running in your terminal):
+OR run it locally (make sure you have a local version of MongoDB running in your terminal):
 - **Front End:** Clone this repo, → run npm install → run npm run start:client 
 - **Back End:** Clone this repo → run npm install → run npm run seed → run npm run start:server
 
